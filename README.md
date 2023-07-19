@@ -8,5 +8,5 @@ Dataset: [Enlace de descarga](https://www.datos.gov.co/Seguridad-y-Defensa/93-In
 Modelos: Modelos: DecisionTreeClassifier, RandomForestClassifier, GaussianNB, AdaBoostClassifier y HistGradientBoostingClassifier.  
 Enlaces:  
 - [Codigo](https://github.com/Pepemanpro/ProyectoIA-2023-1/blob/main/Proyecto-IA.ipynb)  
-- [Video]()
+- [Video](https://www.youtube.com/watch?v=NQOMRbL6vMI&ab_channel=daviddue%C3%B1as)
 - [Repositorio](https://github.com/Pepemanpro/ProyectoIA-2023-1/tree/main)
